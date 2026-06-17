@@ -1,0 +1,341 @@
+{
+  "id": "shiranui",
+  "name_ja": "不知火（和柑橘）",
+  "parts": [
+    "果皮",
+    "果肉"
+  ],
+  "compound_count": 16,
+  "compounds": [
+    {
+      "id": "d-リモネン",
+      "name_ja": "d-リモネン",
+      "part": "果皮",
+      "amount_mg_per_kg": 2380.33,
+      "odor_descriptors": [
+        "オレンジ",
+        "レモン",
+        "フレッシュなシトラス"
+      ],
+      "found_in_ingredients": [
+        "バジル",
+        "カモミール",
+        "コーヒー",
+        "八角",
+        "ハラペーニョ",
+        "モモ"
+      ],
+      "source_ingredients": [
+        "shiranui"
+      ]
+    },
+    {
+      "id": "ミルセン",
+      "name_ja": "ミルセン",
+      "part": "果皮",
+      "amount_mg_per_kg": 36.54,
+      "odor_descriptors": [
+        "グリーン",
+        "樹脂",
+        "ハーバル"
+      ],
+      "found_in_ingredients": [
+        "アナトー",
+        "パクチー",
+        "ターメリック",
+        "ローズマリー",
+        "ニンジン",
+        "バルサミコ",
+        "オリーブ",
+        "八角"
+      ],
+      "source_ingredients": [
+        "shiranui"
+      ]
+    },
+    {
+      "id": "ビサボレン",
+      "name_ja": "ビサボレン",
+      "part": "果皮",
+      "amount_mg_per_kg": 30.03,
+      "odor_descriptors": [
+        "ウッディ",
+        "スパイシー",
+        "バルサミック"
+      ],
+      "found_in_ingredients": [
+        "アニス",
+        "ニンジン",
+        "オレガノ",
+        "八角",
+        "ショウガ",
+        "クミン"
+      ],
+      "source_ingredients": [
+        "shiranui"
+      ]
+    },
+    {
+      "id": "サビネン",
+      "name_ja": "サビネン",
+      "part": "果皮",
+      "amount_mg_per_kg": 21.12,
+      "odor_descriptors": [
+        "スパイシー",
+        "ハーブ",
+        "黒コショウ",
+        "テレピン油",
+        "ウッド"
+      ],
+      "found_in_ingredients": [
+        "セロリ",
+        "クミン",
+        "しょうが",
+        "ピスタチオ"
+      ],
+      "source_ingredients": [
+        "shiranui"
+      ]
+    },
+    {
+      "id": "trans-β-オシメン",
+      "name_ja": "trans-β-オシメン",
+      "part": "果皮",
+      "amount_mg_per_kg": 16.96,
+      "odor_descriptors": [
+        "グリーン",
+        "フローラル",
+        "やや甘い"
+      ],
+      "found_in_ingredients": [
+        "バジル",
+        "カルダモン",
+        "セロリ",
+        "フェンネル",
+        "マンゴー",
+        "ディル"
+      ],
+      "source_ingredients": [
+        "shiranui"
+      ]
+    },
+    {
+      "id": "バレンセン",
+      "name_ja": "バレンセン",
+      "part": "果皮",
+      "amount_mg_per_kg": 12.84,
+      "odor_descriptors": [
+        "ウッディ",
+        "ドライ",
+        "樹皮様",
+        "シトラス",
+        "グリーン",
+        "オイル"
+      ],
+      "found_in_ingredients": [
+        "グレープフルーツ",
+        "オレンジ",
+        "ココア"
+      ],
+      "source_ingredients": [
+        "shiranui"
+      ]
+    },
+    {
+      "id": "デカナール",
+      "name_ja": "デカナール",
+      "part": "果皮",
+      "amount_mg_per_kg": 8.14,
+      "odor_descriptors": [
+        "シトラスピール",
+        "ワックス",
+        "石鹸様",
+        "フレッシュオレンジ"
+      ],
+      "found_in_ingredients": [
+        "グレープフルーツ",
+        "レモングラス",
+        "ソバ"
+      ],
+      "source_ingredients": [
+        "shiranui"
+      ]
+    },
+    {
+      "id": "β-フェランドレン",
+      "name_ja": "β-フェランドレン",
+      "part": "果皮",
+      "amount_mg_per_kg": 4.53,
+      "odor_descriptors": [
+        "ペパーミント",
+        "シトラス",
+        "グリーン"
+      ],
+      "found_in_ingredients": [
+        "乾燥すぐり",
+        "ディル",
+        "フェンネル",
+        "ピンクペッパー",
+        "しょうが",
+        "クミン"
+      ],
+      "source_ingredients": [
+        "shiranui"
+      ]
+    },
+    {
+      "id": "シトロネロール",
+      "name_ja": "シトロネロール",
+      "part": "果皮",
+      "amount_mg_per_kg": 4.51,
+      "odor_descriptors": [
+        "ローズ",
+        "フローラル",
+        "甘い"
+      ],
+      "found_in_ingredients": [
+        "シナモン",
+        "ショウガ",
+        "タイム",
+        "ローズマリー",
+        "マスタード",
+        "パッションフルーツ"
+      ],
+      "source_ingredients": [
+        "shiranui"
+      ]
+    },
+    {
+      "id": "4-テルピネオール",
+      "name_ja": "4-テルピネオール",
+      "part": "果皮",
+      "amount_mg_per_kg": 4.5,
+      "odor_descriptors": [
+        "フローラル",
+        "ウッディ",
+        "ライラック"
+      ],
+      "found_in_ingredients": [
+        "クミン",
+        "カレー",
+        "レモングラス",
+        "ナツメグ",
+        "パースニップ"
+      ],
+      "source_ingredients": [
+        "shiranui"
+      ]
+    },
+    {
+      "id": "リナロール",
+      "name_ja": "リナロール",
+      "part": "果皮・果肉",
+      "amount_mg_per_kg": 4.13,
+      "odor_descriptors": [
+        "フローラル",
+        "ラベンダー",
+        "シトラス"
+      ],
+      "found_in_ingredients": [
+        "クミン",
+        "ヒソップ",
+        "レモンバーム",
+        "ナス",
+        "エルダーベリー",
+        "ハチミツ",
+        "アンズ",
+        "ジュニパー"
+      ],
+      "source_ingredients": [
+        "shiranui"
+      ]
+    },
+    {
+      "id": "シトロネリルアセテート",
+      "name_ja": "シトロネリルアセテート",
+      "part": "果皮",
+      "amount_mg_per_kg": 3.63,
+      "odor_descriptors": [
+        "フローラル",
+        "フルーティ",
+        "甘い"
+      ],
+      "found_in_ingredients": [],
+      "source_ingredients": [
+        "shiranui"
+      ]
+    },
+    {
+      "id": "酢酸エチル",
+      "name_ja": "酢酸エチル",
+      "part": "果肉",
+      "amount_mg_per_kg": 21.54,
+      "odor_descriptors": [
+        "フルーティ",
+        "洋ナシ様",
+        "溶剤様"
+      ],
+      "found_in_ingredients": [
+        "ネギ族",
+        "ビーツ",
+        "クリ",
+        "カボチャ",
+        "ラディッシュ"
+      ],
+      "source_ingredients": [
+        "shiranui"
+      ]
+    },
+    {
+      "id": "アセトイン",
+      "name_ja": "アセトイン",
+      "part": "果肉",
+      "amount_mg_per_kg": 7.23,
+      "odor_descriptors": [
+        "バター",
+        "クリーミー",
+        "ミルキー"
+      ],
+      "found_in_ingredients": [
+        "アボカド",
+        "ココア",
+        "ライチ",
+        "パッションフルーツ",
+        "酢"
+      ],
+      "source_ingredients": [
+        "shiranui"
+      ]
+    },
+    {
+      "id": "3-メチルブタノール",
+      "name_ja": "3-メチルブタノール",
+      "part": "果肉",
+      "amount_mg_per_kg": 2.79,
+      "odor_descriptors": [
+        "発酵",
+        "アルコール",
+        "フルーティ",
+        "バナナ"
+      ],
+      "found_in_ingredients": [],
+      "source_ingredients": [
+        "shiranui"
+      ]
+    },
+    {
+      "id": "p-メンタ-cis-2_8-ジエン-1-オール",
+      "name_ja": "p-メンタ-cis-2,8-ジエン-1-オール",
+      "part": "果肉",
+      "amount_mg_per_kg": 1.01,
+      "odor_descriptors": [
+        "シトラス",
+        "グリーン"
+      ],
+      "found_in_ingredients": [],
+      "source_ingredients": [
+        "shiranui"
+      ]
+    }
+  ]
+}
