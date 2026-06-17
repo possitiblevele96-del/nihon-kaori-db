@@ -400,7 +400,8 @@
       "唐辛子属"
     ],
     "source_ingredients": [
-      "broccoli"
+      "broccoli",
+      "shiranui"
     ]
   },
   "ユーカリプトール_1_8-cineol": {
@@ -816,7 +817,8 @@
       "ラディッシュ"
     ],
     "source_ingredients": [
-      "strawberry"
+      "strawberry",
+      "madachi"
     ]
   },
   "メチルバレレート": {
@@ -1019,7 +1021,8 @@
       "パクチー"
     ],
     "source_ingredients": [
-      "strawberry"
+      "strawberry",
+      "madachi"
     ]
   },
   "E_-3_7_11-トリメチル-1_6_10-ドデカトリエン-3-オール": {
@@ -1046,7 +1049,8 @@
       "マダチ"
     ],
     "source_ingredients": [
-      "strawberry"
+      "strawberry",
+      "madachi"
     ]
   },
   "E_-2-ペンテナール": {
@@ -1176,7 +1180,8 @@
       "オレンジ"
     ],
     "source_ingredients": [
-      "strawberry"
+      "strawberry",
+      "madachi"
     ]
   },
   "3-メチル-2-ブテン-1-オールアセテート": {
@@ -1281,7 +1286,8 @@
     ],
     "source_ingredients": [
       "strawberry",
-      "hamaguri"
+      "hamaguri",
+      "madachi"
     ]
   },
   "リナロール": {
@@ -1295,7 +1301,8 @@
     "found_in_ingredients": [],
     "source_ingredients": [
       "strawberry",
-      "hamaguri"
+      "hamaguri",
+      "shiranui"
     ]
   },
   "ノナナール": {
@@ -1529,7 +1536,8 @@
       "イチジク"
     ],
     "source_ingredients": [
-      "hamaguri"
+      "hamaguri",
+      "madachi"
     ]
   },
   "ウンデカナール": {
@@ -1649,6 +1657,428 @@
     ],
     "source_ingredients": [
       "hamaguri"
+    ]
+  },
+  "ミルセン": {
+    "id": "ミルセン",
+    "name_ja": "ミルセン",
+    "part": "果皮",
+    "amount_mg_per_kg": 36.54,
+    "odor_descriptors": [
+      "グリーン",
+      "樹脂",
+      "ハーバル"
+    ],
+    "found_in_ingredients": [
+      "アナトー",
+      "パクチー",
+      "ターメリック",
+      "ローズマリー",
+      "ニンジン",
+      "バルサミコ",
+      "オリーブ",
+      "八角"
+    ],
+    "source_ingredients": [
+      "shiranui"
+    ]
+  },
+  "ビサボレン": {
+    "id": "ビサボレン",
+    "name_ja": "ビサボレン",
+    "part": "果皮",
+    "amount_mg_per_kg": 30.03,
+    "odor_descriptors": [
+      "ウッディ",
+      "スパイシー",
+      "バルサミック"
+    ],
+    "found_in_ingredients": [
+      "アニス",
+      "ニンジン",
+      "オレガノ",
+      "八角",
+      "ショウガ",
+      "クミン"
+    ],
+    "source_ingredients": [
+      "shiranui"
+    ]
+  },
+  "サビネン": {
+    "id": "サビネン",
+    "name_ja": "サビネン",
+    "part": "果皮",
+    "amount_mg_per_kg": 21.12,
+    "odor_descriptors": [
+      "スパイシー",
+      "ハーブ",
+      "黒コショウ",
+      "テレピン油",
+      "ウッド"
+    ],
+    "found_in_ingredients": [
+      "セロリ",
+      "クミン",
+      "しょうが",
+      "ピスタチオ"
+    ],
+    "source_ingredients": [
+      "shiranui"
+    ]
+  },
+  "trans-β-オシメン": {
+    "id": "trans-β-オシメン",
+    "name_ja": "trans-β-オシメン",
+    "part": "果皮",
+    "amount_mg_per_kg": 16.96,
+    "odor_descriptors": [
+      "グリーン",
+      "フローラル",
+      "やや甘い"
+    ],
+    "found_in_ingredients": [
+      "バジル",
+      "カルダモン",
+      "セロリ",
+      "フェンネル",
+      "マンゴー",
+      "ディル"
+    ],
+    "source_ingredients": [
+      "shiranui"
+    ]
+  },
+  "バレンセン": {
+    "id": "バレンセン",
+    "name_ja": "バレンセン",
+    "part": "果皮",
+    "amount_mg_per_kg": 12.84,
+    "odor_descriptors": [
+      "ウッディ",
+      "ドライ",
+      "樹皮様",
+      "シトラス",
+      "グリーン",
+      "オイル"
+    ],
+    "found_in_ingredients": [
+      "グレープフルーツ",
+      "オレンジ",
+      "ココア"
+    ],
+    "source_ingredients": [
+      "shiranui"
+    ]
+  },
+  "デカナール": {
+    "id": "デカナール",
+    "name_ja": "デカナール",
+    "part": "果皮",
+    "amount_mg_per_kg": 8.14,
+    "odor_descriptors": [
+      "シトラスピール",
+      "ワックス",
+      "石鹸様",
+      "フレッシュオレンジ"
+    ],
+    "found_in_ingredients": [
+      "グレープフルーツ",
+      "レモングラス",
+      "ソバ"
+    ],
+    "source_ingredients": [
+      "shiranui"
+    ]
+  },
+  "β-フェランドレン": {
+    "id": "β-フェランドレン",
+    "name_ja": "β-フェランドレン",
+    "part": "果皮",
+    "amount_mg_per_kg": 4.53,
+    "odor_descriptors": [
+      "ペパーミント",
+      "シトラス",
+      "グリーン"
+    ],
+    "found_in_ingredients": [
+      "乾燥すぐり",
+      "ディル",
+      "フェンネル",
+      "ピンクペッパー",
+      "しょうが",
+      "クミン"
+    ],
+    "source_ingredients": [
+      "shiranui"
+    ]
+  },
+  "シトロネロール": {
+    "id": "シトロネロール",
+    "name_ja": "シトロネロール",
+    "part": "果皮",
+    "amount_mg_per_kg": 4.51,
+    "odor_descriptors": [
+      "ローズ",
+      "フローラル",
+      "甘い"
+    ],
+    "found_in_ingredients": [
+      "シナモン",
+      "ショウガ",
+      "タイム",
+      "ローズマリー",
+      "マスタード",
+      "パッションフルーツ"
+    ],
+    "source_ingredients": [
+      "shiranui"
+    ]
+  },
+  "4-テルピネオール": {
+    "id": "4-テルピネオール",
+    "name_ja": "4-テルピネオール",
+    "part": "果皮",
+    "amount_mg_per_kg": 4.5,
+    "odor_descriptors": [
+      "フローラル",
+      "ウッディ",
+      "ライラック"
+    ],
+    "found_in_ingredients": [
+      "クミン",
+      "カレー",
+      "レモングラス",
+      "ナツメグ",
+      "パースニップ"
+    ],
+    "source_ingredients": [
+      "shiranui"
+    ]
+  },
+  "シトロネリルアセテート": {
+    "id": "シトロネリルアセテート",
+    "name_ja": "シトロネリルアセテート",
+    "part": "果皮",
+    "amount_mg_per_kg": 3.63,
+    "odor_descriptors": [
+      "フローラル",
+      "フルーティ",
+      "甘い"
+    ],
+    "found_in_ingredients": [],
+    "source_ingredients": [
+      "shiranui"
+    ]
+  },
+  "酢酸エチル": {
+    "id": "酢酸エチル",
+    "name_ja": "酢酸エチル",
+    "part": "果肉",
+    "amount_mg_per_kg": 21.54,
+    "odor_descriptors": [
+      "フルーティ",
+      "洋ナシ様",
+      "溶剤様"
+    ],
+    "found_in_ingredients": [
+      "ネギ族",
+      "ビーツ",
+      "クリ",
+      "カボチャ",
+      "ラディッシュ"
+    ],
+    "source_ingredients": [
+      "shiranui"
+    ]
+  },
+  "アセトイン": {
+    "id": "アセトイン",
+    "name_ja": "アセトイン",
+    "part": "果肉",
+    "amount_mg_per_kg": 7.23,
+    "odor_descriptors": [
+      "バター",
+      "クリーミー",
+      "ミルキー"
+    ],
+    "found_in_ingredients": [
+      "アボカド",
+      "ココア",
+      "ライチ",
+      "パッションフルーツ",
+      "酢"
+    ],
+    "source_ingredients": [
+      "shiranui"
+    ]
+  },
+  "3-メチルブタノール": {
+    "id": "3-メチルブタノール",
+    "name_ja": "3-メチルブタノール",
+    "part": "果肉",
+    "amount_mg_per_kg": 2.79,
+    "odor_descriptors": [
+      "発酵",
+      "アルコール",
+      "フルーティ",
+      "バナナ"
+    ],
+    "found_in_ingredients": [],
+    "source_ingredients": [
+      "shiranui"
+    ]
+  },
+  "p-メンタ-cis-2_8-ジエン-1-オール": {
+    "id": "p-メンタ-cis-2_8-ジエン-1-オール",
+    "name_ja": "p-メンタ-cis-2,8-ジエン-1-オール",
+    "part": "果肉",
+    "amount_mg_per_kg": 1.01,
+    "odor_descriptors": [
+      "シトラス",
+      "グリーン"
+    ],
+    "found_in_ingredients": [],
+    "source_ingredients": [
+      "shiranui"
+    ]
+  },
+  "3-メチルブタナール": {
+    "id": "3-メチルブタナール",
+    "name_ja": "3-メチルブタナール",
+    "odor_descriptors": [
+      "アーモンド",
+      "ココア",
+      "加熱野菜",
+      "モルト",
+      "スパイス"
+    ],
+    "found_in_ingredients": [
+      "アーモンド",
+      "ココア",
+      "火を通した野菜",
+      "モルト",
+      "スパイス"
+    ],
+    "source_ingredients": [
+      "madachi"
+    ]
+  },
+  "2-メチルブタナール": {
+    "id": "2-メチルブタナール",
+    "name_ja": "2-メチルブタナール",
+    "odor_descriptors": [
+      "アーモンド",
+      "ココア",
+      "醗酵した",
+      "ヘーゼルナッツ",
+      "モルト"
+    ],
+    "found_in_ingredients": [
+      "リンゴ",
+      "ビール",
+      "オリーブ",
+      "ライムギパン",
+      "ネギ属",
+      "月桂樹",
+      "日本酒"
+    ],
+    "source_ingredients": [
+      "madachi"
+    ]
+  },
+  "Z_-4-ヘプテナール": {
+    "id": "Z_-4-ヘプテナール",
+    "name_ja": "(Z)-4-ヘプテナール",
+    "odor_descriptors": [
+      "ビスケット",
+      "乳脂",
+      "脂",
+      "魚",
+      "腐った"
+    ],
+    "found_in_ingredients": [
+      "ムール貝",
+      "クラム貝",
+      "ザルガイ"
+    ],
+    "source_ingredients": [
+      "madachi"
+    ]
+  },
+  "メチオナール": {
+    "id": "メチオナール",
+    "name_ja": "メチオナール",
+    "odor_descriptors": [
+      "茹でジャガイモ",
+      "大豆"
+    ],
+    "found_in_ingredients": [
+      "りんご",
+      "柑橘",
+      "ピスタチオ",
+      "ホタテ",
+      "ゴマ",
+      "じゃがいも",
+      "大豆",
+      "カボチャ",
+      "メロン"
+    ],
+    "source_ingredients": [
+      "madachi"
+    ]
+  },
+  "ベンズアルデヒド": {
+    "id": "ベンズアルデヒド",
+    "name_ja": "ベンズアルデヒド",
+    "odor_descriptors": [
+      "ビターアーモンド",
+      "焦げた砂糖",
+      "サクランボ",
+      "モルト"
+    ],
+    "found_in_ingredients": [
+      "アーモンド",
+      "プラム",
+      "バジル",
+      "シナモン"
+    ],
+    "source_ingredients": [
+      "madachi"
+    ]
+  },
+  "Z_-6-オクテン-2-オン": {
+    "id": "Z_-6-オクテン-2-オン",
+    "name_ja": "(Z)-6-オクテン-2-オン",
+    "odor_descriptors": [
+      "きのこ",
+      "グリーン",
+      "金属"
+    ],
+    "found_in_ingredients": [
+      "マッシュルーム",
+      "海藻",
+      "魚介"
+    ],
+    "source_ingredients": [
+      "madachi"
+    ]
+  },
+  "E_Z_-2_6-ノナジエナール": {
+    "id": "E_Z_-2_6-ノナジエナール",
+    "name_ja": "(E,Z)-2,6-ノナジエナール",
+    "odor_descriptors": [
+      "きゅうり",
+      "グリーン"
+    ],
+    "found_in_ingredients": [
+      "キュウリ",
+      "スイカ",
+      "メロン",
+      "海藻"
+    ],
+    "source_ingredients": [
+      "madachi"
     ]
   }
 }
