@@ -33,7 +33,8 @@
     "odor_descriptors": [],
     "found_in_ingredients": [],
     "source_ingredients": [
-      "broccoli"
+      "broccoli",
+      "strawberry"
     ]
   },
   "メチルイソチオシアネート": {
@@ -80,7 +81,8 @@
       "アスパラガス"
     ],
     "source_ingredients": [
-      "broccoli"
+      "broccoli",
+      "strawberry"
     ]
   },
   "3-ヘキサナール": {
@@ -139,7 +141,8 @@
       "トーストしたパン"
     ],
     "source_ingredients": [
-      "broccoli"
+      "broccoli",
+      "strawberry"
     ]
   },
   "p-キシレン": {
@@ -340,7 +343,8 @@
       "サクランボ"
     ],
     "source_ingredients": [
-      "broccoli"
+      "broccoli",
+      "strawberry"
     ]
   },
   "1_2_3-トリメチルベンゼン": {
@@ -655,6 +659,773 @@
     "found_in_ingredients": [],
     "source_ingredients": [
       "broccoli"
+    ]
+  },
+  "2-メチル-2-ブタノール": {
+    "id": "2-メチル-2-ブタノール",
+    "name_ja": "2-メチル-2-ブタノール",
+    "odor_descriptors": [],
+    "found_in_ingredients": [],
+    "source_ingredients": [
+      "strawberry"
+    ]
+  },
+  "1-ペンテン-3-オン": {
+    "id": "1-ペンテン-3-オン",
+    "name_ja": "1-ペンテン-3-オン",
+    "odor_descriptors": [
+      "グリーン",
+      "ハーブ",
+      "金属",
+      "マスタード",
+      "刺激"
+    ],
+    "found_in_ingredients": [
+      "デーツ",
+      "エンダイブ",
+      "紅茶などの茶",
+      "メロン",
+      "クラム貝"
+    ],
+    "source_ingredients": [
+      "strawberry"
+    ]
+  },
+  "3-ペンタノン": {
+    "id": "3-ペンタノン",
+    "name_ja": "3-ペンタノン",
+    "odor_descriptors": [
+      "エーテル",
+      "甘み"
+    ],
+    "found_in_ingredients": [
+      "ネギ族",
+      "生クリーム",
+      "キノコ",
+      "洋ナシ",
+      "セージ",
+      "トウガラシ"
+    ],
+    "source_ingredients": [
+      "strawberry"
+    ]
+  },
+  "メチルチオアセテート": {
+    "id": "メチルチオアセテート",
+    "name_ja": "メチルチオアセテート",
+    "odor_descriptors": [],
+    "found_in_ingredients": [],
+    "source_ingredients": [
+      "strawberry"
+    ]
+  },
+  "プロパン酸エチル": {
+    "id": "プロパン酸エチル",
+    "name_ja": "プロパン酸エチル",
+    "odor_descriptors": [],
+    "found_in_ingredients": [],
+    "source_ingredients": [
+      "strawberry"
+    ]
+  },
+  "n-プロピルアセテート": {
+    "id": "n-プロピルアセテート",
+    "name_ja": "n-プロピルアセテート",
+    "odor_descriptors": [],
+    "found_in_ingredients": [],
+    "source_ingredients": [
+      "strawberry"
+    ]
+  },
+  "ブタン酸メチル": {
+    "id": "ブタン酸メチル",
+    "name_ja": "ブタン酸メチル",
+    "odor_descriptors": [
+      "リンゴ",
+      "バナナ",
+      "バター",
+      "チーズ",
+      "エステル",
+      "フローラル"
+    ],
+    "found_in_ingredients": [
+      "リンゴ",
+      "グーズベリー",
+      "オリーブ",
+      "ワイン"
+    ],
+    "source_ingredients": [
+      "strawberry"
+    ]
+  },
+  "2-ヘキサノン": {
+    "id": "2-ヘキサノン",
+    "name_ja": "2-ヘキサノン",
+    "odor_descriptors": [],
+    "found_in_ingredients": [],
+    "source_ingredients": [
+      "strawberry"
+    ]
+  },
+  "メチルイソブチルケトン": {
+    "id": "メチルイソブチルケトン",
+    "name_ja": "メチルイソブチルケトン",
+    "odor_descriptors": [],
+    "found_in_ingredients": [],
+    "source_ingredients": [
+      "strawberry"
+    ]
+  },
+  "E_-2-ブテン酸メチル": {
+    "id": "E_-2-ブテン酸メチル",
+    "name_ja": "(E)-2-ブテン酸メチル",
+    "odor_descriptors": [],
+    "found_in_ingredients": [],
+    "source_ingredients": [
+      "strawberry"
+    ]
+  },
+  "3-ヘキサノン": {
+    "id": "3-ヘキサノン",
+    "name_ja": "3-ヘキサノン",
+    "odor_descriptors": [],
+    "found_in_ingredients": [],
+    "source_ingredients": [
+      "strawberry"
+    ]
+  },
+  "ヘキサナール": {
+    "id": "ヘキサナール",
+    "name_ja": "ヘキサナール",
+    "odor_descriptors": [
+      "フレッシュ",
+      "フルーツ",
+      "草",
+      "グリーン",
+      "オイル"
+    ],
+    "found_in_ingredients": [
+      "アボカド",
+      "カルダモン",
+      "キュウリ",
+      "ムール貝",
+      "ゴマ",
+      "カモミール",
+      "ショウガ",
+      "パセリ",
+      "ラディッシュ"
+    ],
+    "source_ingredients": [
+      "strawberry"
+    ]
+  },
+  "メチルバレレート": {
+    "id": "メチルバレレート",
+    "name_ja": "メチルバレレート",
+    "odor_descriptors": [],
+    "found_in_ingredients": [],
+    "source_ingredients": [
+      "strawberry"
+    ]
+  },
+  "2-ヒドロキシブタン酸メチル": {
+    "id": "2-ヒドロキシブタン酸メチル",
+    "name_ja": "2-ヒドロキシブタン酸メチル",
+    "odor_descriptors": [],
+    "found_in_ingredients": [],
+    "source_ingredients": [
+      "strawberry"
+    ]
+  },
+  "ブタン酸イソプロピル": {
+    "id": "ブタン酸イソプロピル",
+    "name_ja": "ブタン酸イソプロピル",
+    "odor_descriptors": [],
+    "found_in_ingredients": [],
+    "source_ingredients": [
+      "strawberry"
+    ]
+  },
+  "2-メチルブタン酸": {
+    "id": "2-メチルブタン酸",
+    "name_ja": "2-メチルブタン酸",
+    "odor_descriptors": [
+      "バター",
+      "チーズ",
+      "醗酵した",
+      "腐敗",
+      "酸味"
+    ],
+    "found_in_ingredients": [
+      "鶏肉",
+      "コーヒー",
+      "ミント",
+      "ピスタチオ",
+      "米",
+      "糖蜜",
+      "マンゴー"
+    ],
+    "source_ingredients": [
+      "strawberry"
+    ]
+  },
+  "2-メチルブタン酸エチル": {
+    "id": "2-メチルブタン酸エチル",
+    "name_ja": "2-メチルブタン酸エチル",
+    "odor_descriptors": [],
+    "found_in_ingredients": [],
+    "source_ingredients": [
+      "strawberry"
+    ]
+  },
+  "E_-2-ヘキセナール": {
+    "id": "E_-2-ヘキセナール",
+    "name_ja": "(E)-2-ヘキセナール",
+    "odor_descriptors": [
+      "脂",
+      "フローラル",
+      "フルーツ",
+      "草",
+      "刺激"
+    ],
+    "found_in_ingredients": [
+      "アンズ",
+      "サクランボ",
+      "キュウリ",
+      "ヘーゼルナッツ",
+      "モモ",
+      "ラディッシュ"
+    ],
+    "source_ingredients": [
+      "strawberry"
+    ]
+  },
+  "E_-2-ヘキセン-1-オール": {
+    "id": "E_-2-ヘキセン-1-オール",
+    "name_ja": "(E)-2-ヘキセン-1-オール",
+    "odor_descriptors": [
+      "パプリカ",
+      "脂",
+      "ゼラニウム",
+      "グリーン",
+      "スパイス"
+    ],
+    "found_in_ingredients": [
+      "レタス"
+    ],
+    "source_ingredients": [
+      "strawberry"
+    ]
+  },
+  "2-ヘプタノン": {
+    "id": "2-ヘプタノン",
+    "name_ja": "2-ヘプタノン",
+    "odor_descriptors": [
+      "パプリカ",
+      "ブルーチーズ",
+      "フルーツ",
+      "グリーン",
+      "ナッツ",
+      "スパイス"
+    ],
+    "found_in_ingredients": [
+      "ブルーチーズ",
+      "キャビア",
+      "唐辛子",
+      "ヘーゼルナッツ",
+      "洋ナシ",
+      "苺",
+      "乳製品"
+    ],
+    "source_ingredients": [
+      "strawberry"
+    ]
+  },
+  "ブタンチオ酸S-メチルエステル": {
+    "id": "ブタンチオ酸S-メチルエステル",
+    "name_ja": "ブタンチオ酸S-メチルエステル",
+    "odor_descriptors": [],
+    "found_in_ingredients": [],
+    "source_ingredients": [
+      "strawberry"
+    ]
+  },
+  "ペンタン酸エチル": {
+    "id": "ペンタン酸エチル",
+    "name_ja": "ペンタン酸エチル",
+    "odor_descriptors": [],
+    "found_in_ingredients": [],
+    "source_ingredients": [
+      "strawberry"
+    ]
+  },
+  "酢酸ペンチル": {
+    "id": "酢酸ペンチル",
+    "name_ja": "酢酸ペンチル",
+    "odor_descriptors": [],
+    "found_in_ingredients": [],
+    "source_ingredients": [
+      "strawberry"
+    ]
+  },
+  "ブタン酸ブチル": {
+    "id": "ブタン酸ブチル",
+    "name_ja": "ブタン酸ブチル",
+    "odor_descriptors": [],
+    "found_in_ingredients": [],
+    "source_ingredients": [
+      "strawberry"
+    ]
+  },
+  "ヘキサン酸エチル": {
+    "id": "ヘキサン酸エチル",
+    "name_ja": "ヘキサン酸エチル",
+    "odor_descriptors": [
+      "リンゴの皮",
+      "ブランデー",
+      "フルーツガム",
+      "熟れすぎのフルーツ",
+      "パイナップル"
+    ],
+    "found_in_ingredients": [
+      "リンゴ",
+      "クローブ",
+      "トウモロコシ",
+      "トマト"
+    ],
+    "source_ingredients": [
+      "strawberry"
+    ]
+  },
+  "オクタナール": {
+    "id": "オクタナール",
+    "name_ja": "オクタナール",
+    "odor_descriptors": [
+      "シトラス",
+      "脂",
+      "フローラル",
+      "グリーン",
+      "刺激"
+    ],
+    "found_in_ingredients": [
+      "ライム",
+      "しょうが",
+      "トウモロコシ",
+      "ゴマ",
+      "キウイ",
+      "ブドウ",
+      "キャラウェイ",
+      "牡蠣",
+      "パクチー"
+    ],
+    "source_ingredients": [
+      "strawberry"
+    ]
+  },
+  "E_-3_7_11-トリメチル-1_6_10-ドデカトリエン-3-オール": {
+    "id": "E_-3_7_11-トリメチル-1_6_10-ドデカトリエン-3-オール",
+    "name_ja": "(E)-3,7,11-トリメチル-1,6,10-ドデカトリエン-3-オール",
+    "odor_descriptors": [],
+    "found_in_ingredients": [],
+    "source_ingredients": [
+      "strawberry"
+    ]
+  },
+  "ペンタナール": {
+    "id": "ペンタナール",
+    "name_ja": "ペンタナール",
+    "odor_descriptors": [
+      "アーモンド",
+      "苦み",
+      "モルト",
+      "オイル",
+      "刺激"
+    ],
+    "found_in_ingredients": [
+      "ネギ属",
+      "マダチ"
+    ],
+    "source_ingredients": [
+      "strawberry"
+    ]
+  },
+  "E_-2-ペンテナール": {
+    "id": "E_-2-ペンテナール",
+    "name_ja": "(E)-2-ペンテナール",
+    "odor_descriptors": [],
+    "found_in_ingredients": [],
+    "source_ingredients": [
+      "strawberry"
+    ]
+  },
+  "Z_-2-ペンテン-1-オール": {
+    "id": "Z_-2-ペンテン-1-オール",
+    "name_ja": "(Z)-2-ペンテン-1-オール",
+    "odor_descriptors": [],
+    "found_in_ingredients": [],
+    "source_ingredients": [
+      "strawberry"
+    ]
+  },
+  "メチルイソバレレート": {
+    "id": "メチルイソバレレート",
+    "name_ja": "メチルイソバレレート",
+    "odor_descriptors": [
+      "リンゴ",
+      "フルーツ",
+      "パイナップル"
+    ],
+    "found_in_ingredients": [
+      "メロン",
+      "ミント",
+      "キノコ",
+      "セージ"
+    ],
+    "source_ingredients": [
+      "strawberry"
+    ]
+  },
+  "ブタン酸エチル": {
+    "id": "ブタン酸エチル",
+    "name_ja": "ブタン酸エチル",
+    "odor_descriptors": [
+      "リンゴ",
+      "バター",
+      "パイナップル",
+      "赤い果実",
+      "苺"
+    ],
+    "found_in_ingredients": [],
+    "source_ingredients": [
+      "strawberry"
+    ]
+  },
+  "酢酸ブチル": {
+    "id": "酢酸ブチル",
+    "name_ja": "酢酸ブチル",
+    "odor_descriptors": [
+      "リンゴ",
+      "バナナ",
+      "ニカワ",
+      "刺激",
+      "甘み"
+    ],
+    "found_in_ingredients": [],
+    "source_ingredients": [
+      "strawberry"
+    ]
+  },
+  "3-メチル-1-ブタノールアセテート": {
+    "id": "3-メチル-1-ブタノールアセテート",
+    "name_ja": "3-メチル-1-ブタノールアセテート",
+    "odor_descriptors": [
+      "バナナ",
+      "リンゴ",
+      "ニカワ",
+      "洋ナシ"
+    ],
+    "found_in_ingredients": [
+      "日本酒",
+      "ブランデー",
+      "ココア",
+      "メロン",
+      "オリーブ",
+      "ザクロ",
+      "ダークチョコレート"
+    ],
+    "source_ingredients": [
+      "strawberry"
+    ]
+  },
+  "2-メチル-1-ブタノールアセテート": {
+    "id": "2-メチル-1-ブタノールアセテート",
+    "name_ja": "2-メチル-1-ブタノールアセテート",
+    "odor_descriptors": [],
+    "found_in_ingredients": [],
+    "source_ingredients": [
+      "strawberry"
+    ]
+  },
+  "ブタン酸プロピル": {
+    "id": "ブタン酸プロピル",
+    "name_ja": "ブタン酸プロピル",
+    "odor_descriptors": [],
+    "found_in_ingredients": [],
+    "source_ingredients": [
+      "strawberry"
+    ]
+  },
+  "ヘプタナール": {
+    "id": "ヘプタナール",
+    "name_ja": "ヘプタナール",
+    "odor_descriptors": [
+      "シトラス",
+      "干し魚",
+      "脂",
+      "グリーン",
+      "ナッツ"
+    ],
+    "found_in_ingredients": [
+      "アンズ",
+      "牛肉",
+      "ディル",
+      "パクチー",
+      "ショウガ",
+      "トウモロコシ",
+      "ピスタチオ",
+      "オレンジ"
+    ],
+    "source_ingredients": [
+      "strawberry"
+    ]
+  },
+  "3-メチル-2-ブテン-1-オールアセテート": {
+    "id": "3-メチル-2-ブテン-1-オールアセテート",
+    "name_ja": "3-メチル-2-ブテン-1-オールアセテート",
+    "odor_descriptors": [],
+    "found_in_ingredients": [],
+    "source_ingredients": [
+      "strawberry"
+    ]
+  },
+  "ヘキサン酸メチル": {
+    "id": "ヘキサン酸メチル",
+    "name_ja": "ヘキサン酸メチル",
+    "odor_descriptors": [],
+    "found_in_ingredients": [],
+    "source_ingredients": [
+      "strawberry"
+    ]
+  },
+  "6-メチル-5-ヘプテン-2-オン": {
+    "id": "6-メチル-5-ヘプテン-2-オン",
+    "name_ja": "6-メチル-5-ヘプテン-2-オン",
+    "odor_descriptors": [
+      "シトラス",
+      "キノコ",
+      "黒コショウ",
+      "ゴム",
+      "イチゴ"
+    ],
+    "found_in_ingredients": [
+      "アナトー",
+      "レモンバーム",
+      "ミント",
+      "オレンジ",
+      "ピスタチオ",
+      "米",
+      "イチジク"
+    ],
+    "source_ingredients": [
+      "strawberry"
+    ]
+  },
+  "E_-2-ヘキセン-1-オールアセテート": {
+    "id": "E_-2-ヘキセン-1-オールアセテート",
+    "name_ja": "(E)-2-ヘキセン-1-オールアセテート",
+    "odor_descriptors": [],
+    "found_in_ingredients": [],
+    "source_ingredients": [
+      "strawberry"
+    ]
+  },
+  "ヘキサン酸イソプロピル": {
+    "id": "ヘキサン酸イソプロピル",
+    "name_ja": "ヘキサン酸イソプロピル",
+    "odor_descriptors": [],
+    "found_in_ingredients": [],
+    "source_ingredients": [
+      "strawberry"
+    ]
+  },
+  "3-メチルブタン酸ブチル": {
+    "id": "3-メチルブタン酸ブチル",
+    "name_ja": "3-メチルブタン酸ブチル",
+    "odor_descriptors": [],
+    "found_in_ingredients": [],
+    "source_ingredients": [
+      "strawberry"
+    ]
+  },
+  "4-メトキシ-2_5-ジメチル-3_2H_-フラノン": {
+    "id": "4-メトキシ-2_5-ジメチル-3_2H_-フラノン",
+    "name_ja": "4-メトキシ-2,5-ジメチル-3(2H)-フラノン",
+    "odor_descriptors": [
+      "パンの耳",
+      "バター",
+      "カラメル"
+    ],
+    "found_in_ingredients": [],
+    "source_ingredients": [
+      "strawberry"
+    ]
+  },
+  "2-ノナノン": {
+    "id": "2-ノナノン",
+    "name_ja": "2-ノナノン",
+    "odor_descriptors": [
+      "青バナナ",
+      "乳",
+      "ワックス",
+      "せっけん",
+      "かぐわしい"
+    ],
+    "found_in_ingredients": [
+      "乳製品",
+      "魚",
+      "バナナ",
+      "ベーコン",
+      "キャビア",
+      "レモングラス",
+      "米"
+    ],
+    "source_ingredients": [
+      "strawberry"
+    ]
+  },
+  "リナロール": {
+    "id": "リナロール",
+    "name_ja": "リナロール",
+    "odor_descriptors": [
+      "フローラル",
+      "ラベンダー",
+      "シトラス"
+    ],
+    "found_in_ingredients": [],
+    "source_ingredients": [
+      "strawberry"
+    ]
+  },
+  "ノナナール": {
+    "id": "ノナナール",
+    "name_ja": "ノナナール",
+    "odor_descriptors": [
+      "シトラス",
+      "脂",
+      "フローラル",
+      "グリーン"
+    ],
+    "found_in_ingredients": [
+      "ブロッコリー"
+    ],
+    "source_ingredients": [
+      "strawberry"
+    ]
+  },
+  "酢酸ベンジル": {
+    "id": "酢酸ベンジル",
+    "name_ja": "酢酸ベンジル",
+    "odor_descriptors": [
+      "ゆでた野菜",
+      "フレッシュ",
+      "フルーツ",
+      "ハチミツ",
+      "ジャスミン"
+    ],
+    "found_in_ingredients": [
+      "サクランボ",
+      "ココア",
+      "マスタード",
+      "ウィスキー"
+    ],
+    "source_ingredients": [
+      "strawberry"
+    ]
+  },
+  "ブタン酸ヘキシル": {
+    "id": "ブタン酸ヘキシル",
+    "name_ja": "ブタン酸ヘキシル",
+    "odor_descriptors": [],
+    "found_in_ingredients": [],
+    "source_ingredients": [
+      "strawberry"
+    ]
+  },
+  "E_-2-ヘキセニルブタン酸エステル": {
+    "id": "E_-2-ヘキセニルブタン酸エステル",
+    "name_ja": "(E)-2-ヘキセニルブタン酸エステル",
+    "odor_descriptors": [],
+    "found_in_ingredients": [],
+    "source_ingredients": [
+      "strawberry"
+    ]
+  },
+  "オクタン酸エチル": {
+    "id": "オクタン酸エチル",
+    "name_ja": "オクタン酸エチル",
+    "odor_descriptors": [
+      "アンズ",
+      "ブランデー",
+      "脂",
+      "フローラル",
+      "パイナップル"
+    ],
+    "found_in_ingredients": [],
+    "source_ingredients": [
+      "strawberry"
+    ]
+  },
+  "酢酸オクチル": {
+    "id": "酢酸オクチル",
+    "name_ja": "酢酸オクチル",
+    "odor_descriptors": [],
+    "found_in_ingredients": [],
+    "source_ingredients": [
+      "strawberry"
+    ]
+  },
+  "ブタン酸オクチル": {
+    "id": "ブタン酸オクチル",
+    "name_ja": "ブタン酸オクチル",
+    "odor_descriptors": [],
+    "found_in_ingredients": [],
+    "source_ingredients": [
+      "strawberry"
+    ]
+  },
+  "デカン酸エチル": {
+    "id": "デカン酸エチル",
+    "name_ja": "デカン酸エチル",
+    "odor_descriptors": [],
+    "found_in_ingredients": [],
+    "source_ingredients": [
+      "strawberry"
+    ]
+  },
+  "3-メチルブタン酸オクチル": {
+    "id": "3-メチルブタン酸オクチル",
+    "name_ja": "3-メチルブタン酸オクチル",
+    "odor_descriptors": [],
+    "found_in_ingredients": [],
+    "source_ingredients": [
+      "strawberry"
+    ]
+  },
+  "γ-デカラクトン": {
+    "id": "γ-デカラクトン",
+    "name_ja": "γ-デカラクトン",
+    "odor_descriptors": [
+      "ピーチ",
+      "ココナッツ",
+      "バター様甘い",
+      "アンズ",
+      "花",
+      "フルーツ",
+      "モモ",
+      "甘み"
+    ],
+    "found_in_ingredients": [
+      "チーズ",
+      "チャービル",
+      "鶏肉",
+      "ラム酒",
+      "ライム",
+      "カラメル",
+      "ピーナッツ",
+      "パルメザンチーズ"
+    ],
+    "source_ingredients": [
+      "strawberry"
     ]
   }
 }
