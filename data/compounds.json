@@ -1,0 +1,660 @@
+{
+  "アセトン": {
+    "id": "アセトン",
+    "name_ja": "アセトン",
+    "odor_descriptors": [
+      "化学品",
+      "エーテル",
+      "吐き気を催す",
+      "刺激",
+      "バター",
+      "乳脂",
+      "緑パプリカ",
+      "腐敗"
+    ],
+    "found_in_ingredients": [
+      "ネギ族",
+      "アボカド",
+      "ニンジン",
+      "セロリ",
+      "カニ",
+      "ショウガ",
+      "トリュフ",
+      "タコ",
+      "イカ"
+    ],
+    "source_ingredients": [
+      "broccoli"
+    ]
+  },
+  "1-ペンテン-3-オール": {
+    "id": "1-ペンテン-3-オール",
+    "name_ja": "1-ペンテン-3-オール",
+    "odor_descriptors": [],
+    "found_in_ingredients": [],
+    "source_ingredients": [
+      "broccoli"
+    ]
+  },
+  "メチルイソチオシアネート": {
+    "id": "メチルイソチオシアネート",
+    "name_ja": "メチルイソチオシアネート",
+    "odor_descriptors": [],
+    "found_in_ingredients": [],
+    "source_ingredients": [
+      "broccoli"
+    ]
+  },
+  "ジメチルジスルフィド": {
+    "id": "ジメチルジスルフィド",
+    "name_ja": "ジメチルジスルフィド",
+    "odor_descriptors": [
+      "キャベツ",
+      "ニンニク",
+      "玉ねぎ",
+      "腐敗"
+    ],
+    "found_in_ingredients": [
+      "トリュフ",
+      "かぼちゃ"
+    ],
+    "source_ingredients": [
+      "broccoli"
+    ]
+  },
+  "1-ペンタノール": {
+    "id": "1-ペンタノール",
+    "name_ja": "1-ペンタノール",
+    "odor_descriptors": [
+      "バルサム",
+      "フルーツ",
+      "グリーン",
+      "刺激",
+      "イースト"
+    ],
+    "found_in_ingredients": [
+      "リンゴ",
+      "レンズマメ",
+      "キノコ類",
+      "シェリー酒",
+      "アスパラガス"
+    ],
+    "source_ingredients": [
+      "broccoli"
+    ]
+  },
+  "3-ヘキサナール": {
+    "id": "3-ヘキサナール",
+    "name_ja": "3-ヘキサナール",
+    "odor_descriptors": [
+      "緑の葉の茎",
+      "トマト",
+      "メロン",
+      "リンゴ"
+    ],
+    "found_in_ingredients": [],
+    "source_ingredients": [
+      "broccoli"
+    ]
+  },
+  "1_2-メチルシクロペンタノール": {
+    "id": "1_2-メチルシクロペンタノール",
+    "name_ja": "1,2-メチルシクロペンタノール",
+    "odor_descriptors": [],
+    "found_in_ingredients": [],
+    "source_ingredients": [
+      "broccoli"
+    ]
+  },
+  "E_-3-ヘキセン-1-オール": {
+    "id": "E_-3-ヘキセン-1-オール",
+    "name_ja": "(E)-3-ヘキセン-1-オール",
+    "odor_descriptors": [
+      "パプリカ",
+      "青いバナナ",
+      "緑の葉",
+      "ハーブ",
+      "草"
+    ],
+    "found_in_ingredients": [],
+    "source_ingredients": [
+      "broccoli"
+    ]
+  },
+  "1-ヘキサノール": {
+    "id": "1-ヘキサノール",
+    "name_ja": "1-ヘキサノール",
+    "odor_descriptors": [
+      "火を通した野菜",
+      "花",
+      "グリーン",
+      "ハーブ",
+      "腐敗"
+    ],
+    "found_in_ingredients": [
+      "かぼちゃ",
+      "パクチー",
+      "ヘーゼルナッツ",
+      "マスタード",
+      "トーストしたパン"
+    ],
+    "source_ingredients": [
+      "broccoli"
+    ]
+  },
+  "p-キシレン": {
+    "id": "p-キシレン",
+    "name_ja": "p-キシレン",
+    "odor_descriptors": [],
+    "found_in_ingredients": [],
+    "source_ingredients": [
+      "broccoli"
+    ]
+  },
+  "Z_-2-ペンテン-1-オールアセテート": {
+    "id": "Z_-2-ペンテン-1-オールアセテート",
+    "name_ja": "(Z)-2-ペンテン-1-オールアセテート",
+    "odor_descriptors": [],
+    "found_in_ingredients": [],
+    "source_ingredients": [
+      "broccoli"
+    ]
+  },
+  "ペンチルアセテート８_酢酸ペンチル": {
+    "id": "ペンチルアセテート８_酢酸ペンチル",
+    "name_ja": "ペンチルアセテート８（酢酸ペンチル）",
+    "odor_descriptors": [
+      "心地よいバナナのような味わい。軽度;特徴的なバナナまたは洋ナシのようなにおい。"
+    ],
+    "found_in_ingredients": [],
+    "source_ingredients": [
+      "broccoli"
+    ]
+  },
+  "3-メチル-4-ペンテン-1-オールアセテート": {
+    "id": "3-メチル-4-ペンテン-1-オールアセテート",
+    "name_ja": "3-メチル-4-ペンテン-1-オールアセテート",
+    "odor_descriptors": [],
+    "found_in_ingredients": [],
+    "source_ingredients": [
+      "broccoli"
+    ]
+  },
+  "3-カレン": {
+    "id": "3-カレン",
+    "name_ja": "3-カレン",
+    "odor_descriptors": [
+      "パプリカ",
+      "レモン",
+      "ゴム",
+      "樹脂"
+    ],
+    "found_in_ingredients": [
+      "キャラウェイ",
+      "フェンネル",
+      "しょうが",
+      "はちみつ",
+      "ライム"
+    ],
+    "source_ingredients": [
+      "broccoli"
+    ]
+  },
+  "3-デキシン": {
+    "id": "3-デキシン",
+    "name_ja": "3-デキシン",
+    "odor_descriptors": [],
+    "found_in_ingredients": [],
+    "source_ingredients": [
+      "broccoli"
+    ]
+  },
+  "2_2_6-トリメチルオクタン": {
+    "id": "2_2_6-トリメチルオクタン",
+    "name_ja": "2,2,6-トリメチルオクタン",
+    "odor_descriptors": [],
+    "found_in_ingredients": [],
+    "source_ingredients": [
+      "broccoli"
+    ]
+  },
+  "ジメチルトリスルフィド": {
+    "id": "ジメチルトリスルフィド",
+    "name_ja": "ジメチルトリスルフィド",
+    "odor_descriptors": [
+      "キャベツ",
+      "魚",
+      "玉ねぎ",
+      "硫黄",
+      "汗"
+    ],
+    "found_in_ingredients": [
+      "牛乳",
+      "コーヒー",
+      "トウモロコシ",
+      "シェリー酒"
+    ],
+    "source_ingredients": [
+      "broccoli"
+    ]
+  },
+  "2_2_3_4-テトラメチルペンタン": {
+    "id": "2_2_3_4-テトラメチルペンタン",
+    "name_ja": "2,2,3,4-テトラメチルペンタン",
+    "odor_descriptors": [],
+    "found_in_ingredients": [],
+    "source_ingredients": [
+      "broccoli"
+    ]
+  },
+  "1-クロロテトラデカン": {
+    "id": "1-クロロテトラデカン",
+    "name_ja": "1-クロロテトラデカン",
+    "odor_descriptors": [],
+    "found_in_ingredients": [],
+    "source_ingredients": [
+      "broccoli"
+    ]
+  },
+  "2_2_3_5-テトラメチルヘプタン": {
+    "id": "2_2_3_5-テトラメチルヘプタン",
+    "name_ja": "2,2,3,5-テトラメチルヘプタン",
+    "odor_descriptors": [],
+    "found_in_ingredients": [],
+    "source_ingredients": [
+      "broccoli"
+    ]
+  },
+  "2_6_7-トリメチルデカン": {
+    "id": "2_6_7-トリメチルデカン",
+    "name_ja": "2,6,7-トリメチルデカン",
+    "odor_descriptors": [],
+    "found_in_ingredients": [],
+    "source_ingredients": [
+      "broccoli"
+    ]
+  },
+  "1-エチル-3-メチルベンゼン_３－エチルトルエン": {
+    "id": "1-エチル-3-メチルベンゼン_３－エチルトルエン",
+    "name_ja": "1-エチル-3-メチルベンゼン（３－エチルトルエン）",
+    "odor_descriptors": [],
+    "found_in_ingredients": [],
+    "source_ingredients": [
+      "broccoli"
+    ]
+  },
+  "1R_2α_5α_-2_6_6-トリメチルビシクロ_3.1.1_ヘプタン_カンファレン": {
+    "id": "1R_2α_5α_-2_6_6-トリメチルビシクロ_3.1.1_ヘプタン_カンファレン",
+    "name_ja": "(1R,2α,5α)-2,6,6-トリメチルビシクロ[3.1.1]ヘプタン（カンファレン）",
+    "odor_descriptors": [],
+    "found_in_ingredients": [],
+    "source_ingredients": [
+      "broccoli"
+    ]
+  },
+  "2_6_6-トリメチルオクタン": {
+    "id": "2_6_6-トリメチルオクタン",
+    "name_ja": "2,6,6-トリメチルオクタン",
+    "odor_descriptors": [],
+    "found_in_ingredients": [],
+    "source_ingredients": [
+      "broccoli"
+    ]
+  },
+  "テトラデカン": {
+    "id": "テトラデカン",
+    "name_ja": "テトラデカン",
+    "odor_descriptors": [],
+    "found_in_ingredients": [],
+    "source_ingredients": [
+      "broccoli"
+    ]
+  },
+  "4E_-4-ヘキセン-1-オールアセテート": {
+    "id": "4E_-4-ヘキセン-1-オールアセテート",
+    "name_ja": "(4E)-4-ヘキセン-1-オールアセテート",
+    "odor_descriptors": [],
+    "found_in_ingredients": [],
+    "source_ingredients": [
+      "broccoli"
+    ]
+  },
+  "酢酸ヘキシル": {
+    "id": "酢酸ヘキシル",
+    "name_ja": "酢酸ヘキシル",
+    "odor_descriptors": [
+      "リンゴ",
+      "バナナ",
+      "歌詞",
+      "フルーツ",
+      "草",
+      "ハーブ",
+      "洋ナシ"
+    ],
+    "found_in_ingredients": [
+      "クリ",
+      "オレガノ",
+      "キノコ類",
+      "ウィスキー",
+      "もも",
+      "サクランボ"
+    ],
+    "source_ingredients": [
+      "broccoli"
+    ]
+  },
+  "1_2_3-トリメチルベンゼン": {
+    "id": "1_2_3-トリメチルベンゼン",
+    "name_ja": "1,2,3-トリメチルベンゼン",
+    "odor_descriptors": [],
+    "found_in_ingredients": [],
+    "source_ingredients": [
+      "broccoli"
+    ]
+  },
+  "4-エチル-2_2_6_6-テトラメチルヘプタン": {
+    "id": "4-エチル-2_2_6_6-テトラメチルヘプタン",
+    "name_ja": "4-エチル-2,2,6,6-テトラメチルヘプタン",
+    "odor_descriptors": [],
+    "found_in_ingredients": [],
+    "source_ingredients": [
+      "broccoli"
+    ]
+  },
+  "β-シメン_β-サイメン": {
+    "id": "β-シメン_β-サイメン",
+    "name_ja": "β-シメン（β-サイメン）",
+    "odor_descriptors": [
+      "シトラス",
+      "トロピカル",
+      "グリーン",
+      "テルペン",
+      "ウッディ",
+      "グリーン"
+    ],
+    "found_in_ingredients": [],
+    "source_ingredients": [
+      "broccoli"
+    ]
+  },
+  "d-リモネン": {
+    "id": "d-リモネン",
+    "name_ja": "d-リモネン",
+    "odor_descriptors": [
+      "バルサム",
+      "シトラス",
+      "かぐわしい",
+      "フルーツ",
+      "グリーン",
+      "ハーブ"
+    ],
+    "found_in_ingredients": [
+      "バジル",
+      "カモミール",
+      "コーヒー",
+      "八角",
+      "唐辛子属"
+    ],
+    "source_ingredients": [
+      "broccoli"
+    ]
+  },
+  "ユーカリプトール_1_8-cineol": {
+    "id": "ユーカリプトール_1_8-cineol",
+    "name_ja": "ユーカリプトール(1,8-cineol)",
+    "odor_descriptors": [
+      "樟脳",
+      "クール",
+      "ユーカリ",
+      "ミント",
+      "甘み"
+    ],
+    "found_in_ingredients": [
+      "フェンネル",
+      "ジン",
+      "レモングラス",
+      "パッションフルーツ",
+      "八角"
+    ],
+    "source_ingredients": [
+      "broccoli"
+    ]
+  },
+  "3_3-ジメチルヘキサン": {
+    "id": "3_3-ジメチルヘキサン",
+    "name_ja": "3,3-ジメチルヘキサン",
+    "odor_descriptors": [],
+    "found_in_ingredients": [],
+    "source_ingredients": [
+      "broccoli"
+    ]
+  },
+  "3_6-ジメチルウンデカン": {
+    "id": "3_6-ジメチルウンデカン",
+    "name_ja": "3,6-ジメチルウンデカン",
+    "odor_descriptors": [],
+    "found_in_ingredients": [],
+    "source_ingredients": [
+      "broccoli"
+    ]
+  },
+  "2-メチルプロピオン酸ペンチルエステル": {
+    "id": "2-メチルプロピオン酸ペンチルエステル",
+    "name_ja": "2-メチルプロピオン酸ペンチルエステル",
+    "odor_descriptors": [],
+    "found_in_ingredients": [],
+    "source_ingredients": [
+      "broccoli"
+    ]
+  },
+  "5-エチル-2_2_3-トリメチルヘプタン": {
+    "id": "5-エチル-2_2_3-トリメチルヘプタン",
+    "name_ja": "5-エチル-2,2,3-トリメチルヘプタン",
+    "odor_descriptors": [],
+    "found_in_ingredients": [],
+    "source_ingredients": [
+      "broccoli"
+    ]
+  },
+  "γ-テルピネン": {
+    "id": "γ-テルピネン",
+    "name_ja": "γ-テルピネン",
+    "odor_descriptors": [
+      "苦み",
+      "シトラス",
+      "ペトロール",
+      "樹脂",
+      "テレピン油"
+    ],
+    "found_in_ingredients": [
+      "アニス",
+      "キャラウェイ",
+      "ショウガ",
+      "ピスタチオ",
+      "カルダモン",
+      "フェンネル",
+      "バジル",
+      "ピスタチオ"
+    ],
+    "source_ingredients": [
+      "broccoli"
+    ]
+  },
+  "1_2_6-ヘキサントリオール": {
+    "id": "1_2_6-ヘキサントリオール",
+    "name_ja": "1,2,6-ヘキサントリオール",
+    "odor_descriptors": [],
+    "found_in_ingredients": [],
+    "source_ingredients": [
+      "broccoli"
+    ]
+  },
+  "3-メチルウンデカン": {
+    "id": "3-メチルウンデカン",
+    "name_ja": "3-メチルウンデカン",
+    "odor_descriptors": [],
+    "found_in_ingredients": [],
+    "source_ingredients": [
+      "broccoli"
+    ]
+  },
+  "4-ヘキセン-1-イルプロピオン酸エステル": {
+    "id": "4-ヘキセン-1-イルプロピオン酸エステル",
+    "name_ja": "4-ヘキセン-1-イルプロピオン酸エステル",
+    "odor_descriptors": [],
+    "found_in_ingredients": [],
+    "source_ingredients": [
+      "broccoli"
+    ]
+  },
+  "3-ノネン-1-オール": {
+    "id": "3-ノネン-1-オール",
+    "name_ja": "3-ノネン-1-オール",
+    "odor_descriptors": [],
+    "found_in_ingredients": [],
+    "source_ingredients": [
+      "broccoli"
+    ]
+  },
+  "イソホロン": {
+    "id": "イソホロン",
+    "name_ja": "イソホロン",
+    "odor_descriptors": [
+      "杉",
+      "スパイス",
+      "タバコ"
+    ],
+    "found_in_ingredients": [
+      "※",
+      "牛肉",
+      "スノキ属",
+      "キノコ類",
+      "オクラ",
+      "サフラン"
+    ],
+    "source_ingredients": [
+      "broccoli"
+    ]
+  },
+  "4-ヘキセン-1-イルブタン酸エステル": {
+    "id": "4-ヘキセン-1-イルブタン酸エステル",
+    "name_ja": "4-ヘキセン-1-イルブタン酸エステル",
+    "odor_descriptors": [],
+    "found_in_ingredients": [],
+    "source_ingredients": [
+      "broccoli"
+    ]
+  },
+  "カンファー_樟脳": {
+    "id": "カンファー_樟脳",
+    "name_ja": "カンファー（樟脳）",
+    "odor_descriptors": [
+      "樟脳",
+      "土",
+      "松",
+      "スパイス"
+    ],
+    "found_in_ingredients": [
+      "フェンネル",
+      "レモンバーム",
+      "トマト"
+    ],
+    "source_ingredients": [
+      "broccoli"
+    ]
+  },
+  "l-メントン": {
+    "id": "l-メントン",
+    "name_ja": "l-メントン",
+    "odor_descriptors": [
+      "ミント系"
+    ],
+    "found_in_ingredients": [],
+    "source_ingredients": [
+      "broccoli"
+    ]
+  },
+  "l-メントール_またはレボメントール": {
+    "id": "l-メントール_またはレボメントール",
+    "name_ja": "l-メントール（またはレボメントール）",
+    "odor_descriptors": [
+      "ミント系"
+    ],
+    "found_in_ingredients": [],
+    "source_ingredients": [
+      "broccoli"
+    ]
+  },
+  "1-ヘキシル-3-メチルシクロペンタン": {
+    "id": "1-ヘキシル-3-メチルシクロペンタン",
+    "name_ja": "1-ヘキシル-3-メチルシクロペンタン",
+    "odor_descriptors": [],
+    "found_in_ingredients": [],
+    "source_ingredients": [
+      "broccoli"
+    ]
+  },
+  "ノナデカン": {
+    "id": "ノナデカン",
+    "name_ja": "ノナデカン",
+    "odor_descriptors": [],
+    "found_in_ingredients": [],
+    "source_ingredients": [
+      "broccoli"
+    ]
+  },
+  "8-ドデセノール": {
+    "id": "8-ドデセノール",
+    "name_ja": "8-ドデセノール",
+    "odor_descriptors": [],
+    "found_in_ingredients": [],
+    "source_ingredients": [
+      "broccoli"
+    ]
+  },
+  "4-ヘキセン-1-イルペンタン酸エステル": {
+    "id": "4-ヘキセン-1-イルペンタン酸エステル",
+    "name_ja": "4-ヘキセン-1-イルペンタン酸エステル",
+    "odor_descriptors": [],
+    "found_in_ingredients": [],
+    "source_ingredients": [
+      "broccoli"
+    ]
+  },
+  "cis-3-ヘキセニルバレル酸エステル_バレル酸＝ペンタン酸": {
+    "id": "cis-3-ヘキセニルバレル酸エステル_バレル酸＝ペンタン酸",
+    "name_ja": "cis-3-ヘキセニルバレル酸エステル（バレル酸＝ペンタン酸）",
+    "odor_descriptors": [],
+    "found_in_ingredients": [],
+    "source_ingredients": [
+      "broccoli"
+    ]
+  },
+  "2-ヘキセン-1-イルドデカン酸エステル": {
+    "id": "2-ヘキセン-1-イルドデカン酸エステル",
+    "name_ja": "2-ヘキセン-1-イルドデカン酸エステル",
+    "odor_descriptors": [],
+    "found_in_ingredients": [],
+    "source_ingredients": [
+      "broccoli"
+    ]
+  },
+  "エチル5-ケト-2_2-ジメチルヘプタン酸エステル": {
+    "id": "エチル5-ケト-2_2-ジメチルヘプタン酸エステル",
+    "name_ja": "エチル5-ケト-2,2-ジメチルヘプタン酸エステル",
+    "odor_descriptors": [],
+    "found_in_ingredients": [],
+    "source_ingredients": [
+      "broccoli"
+    ]
+  },
+  "グアイア-_10__11-ジエン": {
+    "id": "グアイア-_10__11-ジエン",
+    "name_ja": "グアイア-（10）,11-ジエン",
+    "odor_descriptors": [],
+    "found_in_ingredients": [],
+    "source_ingredients": [
+      "broccoli"
+    ]
+  }
+}
