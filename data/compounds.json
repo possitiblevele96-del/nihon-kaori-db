@@ -1280,7 +1280,8 @@
       "米"
     ],
     "source_ingredients": [
-      "strawberry"
+      "strawberry",
+      "hamaguri"
     ]
   },
   "リナロール": {
@@ -1293,7 +1294,8 @@
     ],
     "found_in_ingredients": [],
     "source_ingredients": [
-      "strawberry"
+      "strawberry",
+      "hamaguri"
     ]
   },
   "ノナナール": {
@@ -1426,6 +1428,227 @@
     ],
     "source_ingredients": [
       "strawberry"
+    ]
+  },
+  "3-オクタノン": {
+    "id": "3-オクタノン",
+    "name_ja": "3-オクタノン",
+    "part": "貝",
+    "odor_descriptors": [
+      "バター",
+      "ハーブ",
+      "カビ",
+      "樹脂"
+    ],
+    "found_in_ingredients": [
+      "コーヒー",
+      "ピーナッツ",
+      "七面鳥",
+      "スノキ属",
+      "タイバジル"
+    ],
+    "source_ingredients": [
+      "hamaguri"
+    ]
+  },
+  "Z_-1_5-オクタジエン-3-オール": {
+    "id": "Z_-1_5-オクタジエン-3-オール",
+    "name_ja": "(Z)-1,5-オクタジエン-3-オール",
+    "part": "貝",
+    "odor_descriptors": [
+      "土っぽい",
+      "キノコ",
+      "ゼラニウムの葉",
+      "グリーン",
+      "マリン"
+    ],
+    "found_in_ingredients": [],
+    "source_ingredients": [
+      "hamaguri"
+    ]
+  },
+  "1-オクテン-3-オン": {
+    "id": "1-オクテン-3-オン",
+    "name_ja": "1-オクテン-3-オン",
+    "part": "貝",
+    "odor_descriptors": [
+      "土",
+      "金属",
+      "キノコ類"
+    ],
+    "found_in_ingredients": [
+      "アーティチョーク",
+      "ネギ属",
+      "バジル",
+      "マスタード",
+      "ゴマ"
+    ],
+    "source_ingredients": [
+      "hamaguri"
+    ]
+  },
+  "1-オクテン-3-オール": {
+    "id": "1-オクテン-3-オール",
+    "name_ja": "1-オクテン-3-オール",
+    "part": "貝",
+    "odor_descriptors": [
+      "キュウリ",
+      "土",
+      "脂",
+      "フローラル",
+      "キノコ類"
+    ],
+    "found_in_ingredients": [
+      "リンゴ",
+      "チーズ",
+      "バジル",
+      "鶏肉",
+      "トリュフ",
+      "牛"
+    ],
+    "source_ingredients": [
+      "hamaguri"
+    ]
+  },
+  "E_E_-2_4-ヘプタジエナール": {
+    "id": "E_E_-2_4-ヘプタジエナール",
+    "name_ja": "(E,E)-2,4-ヘプタジエナール",
+    "part": "貝",
+    "odor_descriptors": [
+      "脂",
+      "魚",
+      "ナッツ",
+      "プラスチック"
+    ],
+    "found_in_ingredients": [
+      "ネギ属",
+      "牛肉",
+      "トマト",
+      "くるみ",
+      "ブロッコリー",
+      "イチジク"
+    ],
+    "source_ingredients": [
+      "hamaguri"
+    ]
+  },
+  "ウンデカナール": {
+    "id": "ウンデカナール",
+    "name_ja": "ウンデカナール",
+    "part": "貝",
+    "odor_descriptors": [
+      "ワックス",
+      "フローラル",
+      "アルデヒド",
+      "シトラス",
+      "グリーン"
+    ],
+    "found_in_ingredients": [],
+    "source_ingredients": [
+      "hamaguri"
+    ]
+  },
+  "フラネオール": {
+    "id": "フラネオール",
+    "name_ja": "フラネオール",
+    "part": "だし",
+    "odor_descriptors": [
+      "焦げ",
+      "カラメル",
+      "綿あめ",
+      "ハチミツ",
+      "甘み"
+    ],
+    "found_in_ingredients": [
+      "ココア",
+      "イチゴ",
+      "マンゴー",
+      "ポップコーン",
+      "醤油"
+    ],
+    "source_ingredients": [
+      "hamaguri"
+    ]
+  },
+  "マルトール": {
+    "id": "マルトール",
+    "name_ja": "マルトール",
+    "part": "だし",
+    "odor_descriptors": [
+      "カラメル",
+      "綿あめ",
+      "モルト",
+      "炙ったパン",
+      "煎ったナッツ"
+    ],
+    "found_in_ingredients": [
+      "クリ",
+      "ココア",
+      "ピーカンナッツ",
+      "豚肉"
+    ],
+    "source_ingredients": [
+      "hamaguri"
+    ]
+  },
+  "2-アセチル-2-チアゾリン": {
+    "id": "2-アセチル-2-チアゾリン",
+    "name_ja": "2-アセチル-2-チアゾリン",
+    "part": "だし",
+    "odor_descriptors": [
+      "ロースト",
+      "カラメル",
+      "ポップコーン",
+      "ローストビーフ"
+    ],
+    "found_in_ingredients": [],
+    "source_ingredients": [
+      "hamaguri"
+    ]
+  },
+  "2-アセチルチアゾール": {
+    "id": "2-アセチルチアゾール",
+    "name_ja": "2-アセチルチアゾール",
+    "part": "だし",
+    "odor_descriptors": [
+      "ナッツ",
+      "ポップコーン",
+      "ロースト",
+      "硫黄"
+    ],
+    "found_in_ingredients": [
+      "ビール",
+      "クラム貝",
+      "トウモロコシ",
+      "エビ",
+      "アーティチョーク",
+      "キャベツ"
+    ],
+    "source_ingredients": [
+      "hamaguri"
+    ]
+  },
+  "3-メチルチオプロパナール": {
+    "id": "3-メチルチオプロパナール",
+    "name_ja": "3-メチルチオプロパナール",
+    "part": "だし",
+    "odor_descriptors": [
+      "茹でジャガイモ",
+      "大豆"
+    ],
+    "found_in_ingredients": [
+      "りんご",
+      "柑橘",
+      "ピスタチオ",
+      "ホタテ",
+      "ゴマ",
+      "じゃがいも",
+      "大豆",
+      "カボチャ",
+      "メロン"
+    ],
+    "source_ingredients": [
+      "hamaguri"
     ]
   }
 }
