@@ -1,0 +1,271 @@
+{
+  "id": "madachi",
+  "name_ja": "マダチ",
+  "compound_count": 13,
+  "compounds": [
+    {
+      "id": "3-メチルブタナール",
+      "name_ja": "3-メチルブタナール",
+      "odor_descriptors": [
+        "アーモンド",
+        "ココア",
+        "加熱野菜",
+        "モルト",
+        "スパイス"
+      ],
+      "found_in_ingredients": [
+        "アーモンド",
+        "ココア",
+        "火を通した野菜",
+        "モルト",
+        "スパイス"
+      ],
+      "source_ingredients": [
+        "madachi"
+      ]
+    },
+    {
+      "id": "2-メチルブタナール",
+      "name_ja": "2-メチルブタナール",
+      "odor_descriptors": [
+        "アーモンド",
+        "ココア",
+        "醗酵した",
+        "ヘーゼルナッツ",
+        "モルト"
+      ],
+      "found_in_ingredients": [
+        "リンゴ",
+        "ビール",
+        "オリーブ",
+        "ライムギパン",
+        "ネギ属",
+        "月桂樹",
+        "日本酒"
+      ],
+      "source_ingredients": [
+        "madachi"
+      ]
+    },
+    {
+      "id": "ペンタナール",
+      "name_ja": "ペンタナール",
+      "odor_descriptors": [
+        "アーモンド",
+        "苦み",
+        "モルト",
+        "オイル",
+        "刺激"
+      ],
+      "found_in_ingredients": [],
+      "source_ingredients": [
+        "madachi"
+      ]
+    },
+    {
+      "id": "ヘキサナール",
+      "name_ja": "ヘキサナール",
+      "odor_descriptors": [
+        "フレッシュ",
+        "フルーツ",
+        "草",
+        "オイル"
+      ],
+      "found_in_ingredients": [
+        "アボカド",
+        "カルダモン",
+        "きゅうり",
+        "ムール貝",
+        "ゴマ"
+      ],
+      "source_ingredients": [
+        "madachi"
+      ]
+    },
+    {
+      "id": "Z_-4-ヘプテナール",
+      "name_ja": "(Z)-4-ヘプテナール",
+      "odor_descriptors": [
+        "ビスケット",
+        "乳脂",
+        "脂",
+        "魚",
+        "腐った"
+      ],
+      "found_in_ingredients": [
+        "ムール貝",
+        "クラム貝",
+        "ザルガイ"
+      ],
+      "source_ingredients": [
+        "madachi"
+      ]
+    },
+    {
+      "id": "ヘプタナール",
+      "name_ja": "ヘプタナール",
+      "odor_descriptors": [
+        "シトラス",
+        "干し魚",
+        "脂",
+        "グリーン",
+        "ナッツ"
+      ],
+      "found_in_ingredients": [
+        "アンズ",
+        "牛肉",
+        "ディル",
+        "パクチー",
+        "ショウガ",
+        "トウモロコシ",
+        "ピスタチオ",
+        "オレンジ"
+      ],
+      "source_ingredients": [
+        "madachi"
+      ]
+    },
+    {
+      "id": "メチオナール",
+      "name_ja": "メチオナール",
+      "odor_descriptors": [
+        "茹でジャガイモ",
+        "大豆"
+      ],
+      "found_in_ingredients": [
+        "りんご",
+        "柑橘",
+        "ピスタチオ",
+        "ホタテ",
+        "ゴマ",
+        "じゃがいも",
+        "大豆",
+        "カボチャ",
+        "メロン"
+      ],
+      "source_ingredients": [
+        "madachi"
+      ]
+    },
+    {
+      "id": "ベンズアルデヒド",
+      "name_ja": "ベンズアルデヒド",
+      "odor_descriptors": [
+        "ビターアーモンド",
+        "焦げた砂糖",
+        "サクランボ",
+        "モルト"
+      ],
+      "found_in_ingredients": [
+        "アーモンド",
+        "プラム",
+        "バジル",
+        "シナモン"
+      ],
+      "source_ingredients": [
+        "madachi"
+      ]
+    },
+    {
+      "id": "Z_-6-オクテン-2-オン",
+      "name_ja": "(Z)-6-オクテン-2-オン",
+      "odor_descriptors": [
+        "きのこ",
+        "グリーン",
+        "金属"
+      ],
+      "found_in_ingredients": [
+        "マッシュルーム",
+        "海藻",
+        "魚介"
+      ],
+      "source_ingredients": [
+        "madachi"
+      ]
+    },
+    {
+      "id": "E_E_-2_4-ヘプタジエナール",
+      "name_ja": "(E,E)-2,4-ヘプタジエナール",
+      "odor_descriptors": [
+        "脂",
+        "魚",
+        "ナッツ",
+        "プラスチック"
+      ],
+      "found_in_ingredients": [
+        "ネギ属",
+        "牛肉",
+        "トマト",
+        "くるみ"
+      ],
+      "source_ingredients": [
+        "madachi"
+      ]
+    },
+    {
+      "id": "オクタナール",
+      "name_ja": "オクタナール",
+      "odor_descriptors": [
+        "シトラス",
+        "脂",
+        "フローラル",
+        "グリーン",
+        "刺激"
+      ],
+      "found_in_ingredients": [
+        "ライム",
+        "しょうが",
+        "トウモロコシ",
+        "ゴマ",
+        "キウイ",
+        "ブドウ",
+        "キャラウェイ",
+        "牡蠣",
+        "パクチー"
+      ],
+      "source_ingredients": [
+        "madachi"
+      ]
+    },
+    {
+      "id": "2-ノナノン",
+      "name_ja": "2-ノナノン",
+      "odor_descriptors": [
+        "青バナナ",
+        "乳",
+        "ワックス",
+        "せっけん",
+        "かぐわしい"
+      ],
+      "found_in_ingredients": [
+        "乳製品",
+        "魚",
+        "バナナ",
+        "ベーコン",
+        "キャビア",
+        "レモングラス",
+        "米"
+      ],
+      "source_ingredients": [
+        "madachi"
+      ]
+    },
+    {
+      "id": "E_Z_-2_6-ノナジエナール",
+      "name_ja": "(E,Z)-2,6-ノナジエナール",
+      "odor_descriptors": [
+        "きゅうり",
+        "グリーン"
+      ],
+      "found_in_ingredients": [
+        "キュウリ",
+        "スイカ",
+        "メロン",
+        "海藻"
+      ],
+      "source_ingredients": [
+        "madachi"
+      ]
+    }
+  ]
+}
